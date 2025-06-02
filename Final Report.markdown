@@ -1,13 +1,5 @@
 # DSA210: NBA Player Career Length Analysis
 
-## Overview
-
-This project investigates the relationship between NBA players' performance statistics and their career lengths, focusing on players who started their careers in 1980 or later and retired by the 2020 season, with a minimum of 10 games played. The analysis leverages data science techniques, including data collection, cleaning, exploratory data analysis (EDA), hypothesis testing, and machine learning to uncover factors influencing career longevity.
-
-## Motivation
-
-As an NBA enthusiast, I am intrigued by the factors that determine how long a player sustains a professional career. Understanding which performance metrics—such as points, assists, rebounds, or defensive contributions—correlate with career length can provide insights into what makes a player enduring in the league. This project aims to identify statistically significant predictors of career longevity, offering value to sports analysts, teams, and fans.
-
 ## Data Source
 
 The dataset is sourced from two places:
